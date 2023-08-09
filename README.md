@@ -5,4 +5,4 @@ The program takes in the users guess, determines if it is valid and then calcula
 
 This program is designed to where the GameConfigurations can be altered, such as the valid colors or amount of guesses, and no errors will occur in the running of the game.
 
-__ Skills learned/used: Object-Oriented Programming, Java, Game Design, Java TextInput __
+__Skills learned/used: Object-Oriented Programming, Java, Game Design, Java TextInput__
